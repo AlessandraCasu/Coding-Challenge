@@ -1,0 +1,27 @@
+body{
+    width: fit-content;
+    background-image: url(background.jpg);
+    background-size: 1300px  800px;
+}
+
+.container{
+    text-align: center;
+}
+.logo{
+   width: 200px ;
+}
+.titolo{
+    color: chartreuse;
+}
+
+.Menu{
+    background-color: chartreuse;
+   background-size: 30px, 60px;
+    text-align: center;
+
+}
+
+.Monopattino {
+    margin-left: 100px;
+    color: white;
+}
